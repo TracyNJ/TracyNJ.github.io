@@ -1,0 +1,11 @@
+body{
+	background-color: orange;
+}
+
+
+
+.division-one {
+	width: 500px;
+	border: 10px solid black;
+	float:right;
+}
